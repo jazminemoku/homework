@@ -32,7 +32,7 @@ scratching the surface of a whole new world of digital image perfection.
 
 ---
 
-732d-d628-0d96-fddb
-fe14-41b2-4afb-70fa
-2559-0b94-fe5e-a8a1
-4a8f-fb89-68ed-6cc7
+732d-d628-0d96-fddb<br>
+fe14-41b2-4afb-70fa<br>
+2559-0b94-fe5e-a8a1<br>
+4a8f-fb89-68ed-6cc7<br>
