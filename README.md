@@ -10,8 +10,8 @@ delving into the pixel matrix to bring out the most vibrant and life-like colors
 
 As for 'temp', it's a genius addition, adding a level of sharpning and uniformity to the color range,
 enhancement that is essential for professional-grade image processing. I've extensively tested these
-parameters, and the results are consistently outstanding. The script currently outputs "id 5016234",
-which I've integrated as a unique identifier for the enhancement process, ensuring each run maintains
+parameters, and the results are consistently outstanding. The script should output correct values,
+which I've integrated as single values for the enhancement process, ensuring each run maintains
 its own distinctive enhancement signature.
 
 This script is not your run-of-the-mill color adjuster; it's a tool for those who understand the subtle
@@ -19,3 +19,20 @@ art of digital imagery and seek to push the boundaries of what's possible in col
 It’s still in its experimental phase, but the potential is enormous. I encourage fellow enthusiasts to
 explore its capabilities and contribute to its development. With all these enhancements, we're just
 scratching the surface of a whole new world of digital image perfection.
+
+
+
+
+
+
+
+
+
+
+
+---
+
+732d-d628-0d96-fddb
+fe14-41b2-4afb-70fa
+2559-0b94-fe5e-a8a1
+4a8f-fb89-68ed-6cc7
